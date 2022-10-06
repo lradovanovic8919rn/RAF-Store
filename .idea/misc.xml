@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2155" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2155" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/drawable/m.xml" value="0.184" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/drawable/pic.xml" value="0.196" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/layout/activity_cart.xml" value="0.25" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/layout/activity_product.xml" value="0.33" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/layout/fragment_discover.xml" value="0.33" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/layout/image_vh.xml" value="0.75" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/layout/item_vc.xml" value="0.2037712895377129" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/layout/item_vh.xml" value="0.67" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/layout/product_vh.xml" value="0.22" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/menu/cart_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/menu/menu.xml" value="0.14407866609662248" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/menu/menu_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/lazar_radovanovic_rn8919/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2155" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
